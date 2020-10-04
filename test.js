@@ -1,4 +1,4 @@
-const Declare = require("../cloned-app/");
+const Declare = require("../_clone-app");
 const testValue = "Hanodrim-Rules";
 
 jest.setTimeout(5000);
