@@ -1,3 +1,3 @@
-## Should have "then" method which returns a Declare'
+## Should have "then" method which returns a Declare
 * recursion is not only for functions...
 * it doesn't have to return a Decalre instance to work, but it can help, we do demand it and it should not create a problem.
